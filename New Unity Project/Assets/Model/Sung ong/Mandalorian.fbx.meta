@@ -1,11 +1,77 @@
 fileFormatVersion: 2
 guid: 1c715652cc6a4014093d08e9ca17582e
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body11
+    100002: Body12
+    100004: Body13
+    100006: Body14
+    100008: Body15
+    100010: Body16
+    100012: Body17
+    100014: Body4
+    100016: Body488
+    100018: Body5
+    100020: Body6
+    100022: Component1
+    100024: Component1:1
+    100026: //RootNode
+    400000: Body11
+    400002: Body12
+    400004: Body13
+    400006: Body14
+    400008: Body15
+    400010: Body16
+    400012: Body17
+    400014: Body4
+    400016: Body488
+    400018: Body5
+    400020: Body6
+    400022: Component1
+    400024: Component1:1
+    400026: //RootNode
+    2100000: Steel - Satin
+    2100002: Chrome
+    2100004: Plastic - Matte (Black)
+    2100006: Glass - Heavy Color
+    2300000: Body11
+    2300002: Body12
+    2300004: Body13
+    2300006: Body14
+    2300008: Body15
+    2300010: Body16
+    2300012: Body17
+    2300014: Body4
+    2300016: Body488
+    2300018: Body5
+    2300020: Body6
+    3300000: Body11
+    3300002: Body12
+    3300004: Body13
+    3300006: Body14
+    3300008: Body15
+    3300010: Body16
+    3300012: Body17
+    3300014: Body4
+    3300016: Body488
+    3300018: Body5
+    3300020: Body6
+    4300000: Body4
+    4300002: Body5
+    4300004: Body6
+    4300006: Body11
+    4300008: Body12
+    4300010: Body13
+    4300012: Body14
+    4300014: Body15
+    4300016: Body16
+    4300018: Body17
+    4300020: Body488
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,28 +104,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -68,10 +131,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -81,16 +144,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
